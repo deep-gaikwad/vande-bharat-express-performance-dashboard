@@ -35,7 +35,7 @@ The dashboard provides a consolidated view of important operational and business
 ![Vande Bharat Dashboard Home](Images/Home.png)
 
 ### Dashboard Overview
-![Vande Bharat Dashboard](Images/Dashboard.png)
+![Vande Bharat Dashboard](Images/Dashboard.jpg)
 
 *If your image files have a different extension, update `.png` in the image paths to match the actual filenames.*
 
